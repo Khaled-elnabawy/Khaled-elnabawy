@@ -16,10 +16,10 @@
 ---
 
 ### 👨‍💻 About Me
-* ☁️ Junior DevOps & Cloud Engineer with hands-on experience designing, automating, and deploying scalable cloud-native infrastructures on **AWS**.
+* ☁️ **Junior DevOps & Cloud Engineer** with hands-on experience designing, automating, and deploying secure, scalable cloud-native infrastructures on **AWS**.
 * 🏆 **AWS Certified Cloud Practitioner** (Score: 914/1000).
-* 🚀 Passionate about CI/CD automation, GitOps, and Infrastructure as Code (IaC).
-* 💼 Completed intensive DevOps training with the Ministry of Communications and Information Technology (**DEPI**).
+* 🛡️ Strong focus on **DevSecOps**, **CI/CD Automation**, **GitOps**, and **Infrastructure as Code (IaC)**.
+* 💼 Completed intensive DevOps & Web Development training programs with the Ministry of Communications and Information Technology (**DEPI**), giving me a solid foundation in both backend systems and cloud operations.
 
 ---
 
@@ -47,9 +47,17 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-**Monitoring & Backend:**
+**DevSecOps, Monitoring & Logging:**
 <p>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-00A5FF?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+**Programming & Scripting:**
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="
+  <img src="https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
