@@ -5,7 +5,7 @@
   <a href="./Khaled_Enabawy_DevOps_Resume.pdf">
     <img src="https://img.shields.io/badge/📄_Download_My_Resume_(PDF)-0A66C2?style=for-the-badge&logoColor=white" alt="Download CV"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE" target="_blank">
+  <a href="https://www.linkedin.com/in/khaled-elnabawy-379407268/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:khaledelnabawy457@gmail.com">
