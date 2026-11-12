@@ -19,7 +19,7 @@
 * ☁️ **Junior DevOps & Cloud Engineer** with hands-on experience designing, automating, and deploying secure, scalable cloud-native infrastructures on **AWS**.
 * 🏆 **AWS Certified Cloud Practitioner** (Score: 914/1000).
 * 🛡️ Strong focus on **DevSecOps**, **CI/CD Automation**, **GitOps**, and **Infrastructure as Code (IaC)**.
-* 💼 Completed intensive DevOps & Web Development training programs with the Ministry of Communications and Information Technology (**DEPI**), giving me a solid foundation in both backend systems and cloud operations.
+* 💼 Completed intensive Web Development & DevOps training programs with the Ministry of Communications and Information Technology (**DEPI**), giving me a solid foundation in both backend systems and cloud operations.
 
 ---
 
