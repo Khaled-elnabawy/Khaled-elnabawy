@@ -2,7 +2,7 @@
 <h3 align="center">Junior DevOps & Cloud Engineer | AWS Certified Cloud Practitioner</h3>
 
 <p align="center">
-  <a href="./Khaled_Enabawy_CV.pdf">
+  <a href="https://github.com/Khaled-elnabawy/Khaled-elnabawy/raw/main/Khaled_Enabawy_CV.pdf">
     <img src="https://img.shields.io/badge/📄_Download_My_CV_(PDF)-0A66C2?style=for-the-badge&logoColor=white" alt="Download CV"/>
   </a>
   <a href="https://www.linkedin.com/in/khaled-elnabawy-379407268/" target="_blank">
